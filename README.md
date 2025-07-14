@@ -1,4 +1,4 @@
-# Freelancing Application – MERN Stack Freelancing Platform
+# Freelance Finder – MERN Stack Freelancing Platform
 
 This project showcases a full-stack freelance job marketplace built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Inspired by platforms like Upwork and Freelancer, it enables seamless interaction between clients and freelancers with features such as project bidding, real-time messaging, secure payments, and role-based access.
 
